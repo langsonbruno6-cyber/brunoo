@@ -1,4 +1,4 @@
-name: Deploy Ghala Smart Store to InfinityFree
+name: Deploy UDOM BloodLink to InfinityFree
 on:
   push:
     branches: [main]
